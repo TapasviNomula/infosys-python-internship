@@ -40,7 +40,3 @@ It demonstrates my **learning outcomes** in Python programming and showcases how
 ### Notebook (recommended)
 Open `Infosys_Workbook.ipynb` or `Assignments_Notebook.ipynb` in **Jupyter**, **VS Code (Jupyter extension)**, or **Google Colab** and run cells top-to-bottom.
 
-### Individual scripts
-```bash
-cd assignments
-python 01_mini_calculator.py
